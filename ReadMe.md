@@ -1,4 +1,5 @@
 Distributional Semantics & POS Tagging
+************
 
 Attached is a python code which implements Latent Semantic Analysis discussed in the class. You can use this as the base for all the problems in this assignment.
 
